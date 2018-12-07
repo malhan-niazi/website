@@ -8,9 +8,3 @@
 #ignore pusing node_modules
 /node_modules/
 
-#ignore package-lock.json
-package-lock.json
-
-#ignore semantic.json
-semantic.json
-
